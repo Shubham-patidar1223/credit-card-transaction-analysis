@@ -27,3 +27,5 @@ An interactive Power BI dashboard developed to analyze credit card transactions,
 
 ## Dashboard
 Interactive Power BI dashboard with KPI cards, slicers and visualizations.
+![Credit Card Dashboard](IMG_20260911_152702.jpg)
+
